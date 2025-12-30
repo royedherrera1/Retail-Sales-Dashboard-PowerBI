@@ -68,9 +68,13 @@ The analysis shows that revenue is highly stable across seasons (each around $13
 - Build automated data refresh scheduling so stakeholders always see up-to-date metrics
 
 ### Dashoboard and Data Access
+
 Power BI file: https://drive.google.com/file/d/18MeKQaMngmz2Ixdpii3R1Vf2Tf6owgGB/view?usp=drive_link
+
 Dataset source: https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset
 
 ### Contact Me
+
 Mail: royed.123@outlook.com
+
 LinkedIn: https://www.linkedin.com/in/royed-alberto-herrera-cano/
