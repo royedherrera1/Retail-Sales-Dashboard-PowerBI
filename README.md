@@ -17,11 +17,15 @@ Based on this, I recommend:
 
 <img width="1284" height="721" alt="2e705e7f-3d60-4cd4-b579-612b74792246" src="https://github.com/user-attachments/assets/bf274d64-930b-426f-a491-0e59d1687987" />
 
+---
+
 ### Business Problem
 
 Completed sales are essential for this retail company because they are directly tied to revenue. However, leadership currently lacks a clear, consolidated view of how sales perform across cities, store types, seasons, and customer segments. Although the company processes a large volume of transactions, existing reports are fragmented and make it difficult to answer simple questions such as which customers contribute the most revenue or whether promotions meaningfully change sales behavior.
 
 How can we centralize sales information, understand performance by key dimensions, and identify areas where deeper analysis or targeted experiments could improve revenue?
+
+--- 
 
 ### Methodology
 
@@ -30,6 +34,8 @@ Imported the retail transactions dataset into Power BI and performed data cleani
 Built an interactive dashboard in Power BI that tracks total revenue, total transactions, average ticket size, items sold, and revenue by city, store type, customer category, season, and promotion type.
 
 Analyzed trends and patterns to identify how evenly revenue is distributed across seasons and promotions, and to highlight opportunities for deeper segmentation and targeted business experiments.
+
+---
 
 ### Skills Used
 
@@ -41,11 +47,15 @@ Analyzed trends and patterns to identify how evenly revenue is distributed acros
 
 ● Excel / CSV: Exploring raw data and understanding dataset structure
 
+---
+
 ### Results & Business Recommendations
 
 Creating this dashboard gives retail stakeholders a single place to track sales performance across cities, store types, seasons, and customer segments. By centralizing the data in Power BI, decision-makers can now self-serve instead of relying on manual reports, making it easier to answer common business questions.
 
 The analysis shows that revenue is highly stable across seasons (each around $13.1M) and that different promotion types generate similar revenue levels (about $4.36M each). This suggests that the business does not currently experience strong seasonal swings or promotion-driven spikes, and instead operates around a consistent revenue baseline.
+
+---
 
 ### Recommended Actions
 
@@ -57,6 +67,8 @@ The analysis shows that revenue is highly stable across seasons (each around $13
 
 - Create customer segments based on average ticket size to identify high-value shoppers
 
+---
+
 ### Next Steps
 
 - Incorporate product-level data to understand which specific items drive the most revenue and margin
@@ -67,11 +79,15 @@ The analysis shows that revenue is highly stable across seasons (each around $13
 
 - Build automated data refresh scheduling so stakeholders always see up-to-date metrics
 
+---
+
 ### Dashoboard and Data Access
 
 Power BI file: https://drive.google.com/file/d/18MeKQaMngmz2Ixdpii3R1Vf2Tf6owgGB/view?usp=drive_link
 
 Dataset source: https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset
+
+---
 
 ### Contact Me
 
