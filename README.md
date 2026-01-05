@@ -15,6 +15,9 @@ Based on this, I recommend:
 
 - Exploring product combinations to identify higher-margin sales opportunities
 
+---
+
+## Dashboard Preview
 <img width="1284" height="721" alt="2e705e7f-3d60-4cd4-b579-612b74792246" src="https://github.com/user-attachments/assets/bf274d64-930b-426f-a491-0e59d1687987" />
 
 ---
