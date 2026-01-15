@@ -1,9 +1,9 @@
 # Retail-Sales-Dashboard-PowerBI
+Retail Sales Performance Analysis with Power BI
 
-## Retail Sales Performance Analysis with Power BI
 Author: Royed Alberto Herrera Cano
 
-### Executive Summary
+## Executive Summary
 
 Using Power BI, I analyzed more than one million retail transactions to understand how revenue behaves across seasons, cities, store types, and customer segments. The analysis shows that revenue is very evenly distributed across seasons (around $13.1M each) and that different promotion types generate similar revenue, meaning there are no strong seasonal spikes or promotion-driven changes. Instead of large jumps, the business operates with a stable baseline, which creates a good opportunity to focus on targeted experiments rather than broad discounts.
 
@@ -22,7 +22,7 @@ Based on this, I recommend:
 
 ---
 
-### Business Problem
+## Business Problem
 
 Completed sales are essential for this retail company because they are directly tied to revenue. However, leadership currently lacks a clear, consolidated view of how sales perform across cities, store types, seasons, and customer segments. Although the company processes a large volume of transactions, existing reports are fragmented and make it difficult to answer simple questions such as which customers contribute the most revenue or whether promotions meaningfully change sales behavior.
 
@@ -30,7 +30,7 @@ How can we centralize sales information, understand performance by key dimension
 
 --- 
 
-### Methodology
+## Methodology
 
 Imported the retail transactions dataset into Power BI and performed data cleaning and basic transformations (dates, formats, calculated fields such as month, quarter, and year).
 
@@ -40,7 +40,7 @@ Analyzed trends and patterns to identify how evenly revenue is distributed acros
 
 ---
 
-### Skills Used
+## Skills Used
 
 ● Power BI: Data visualization, dashboard design, calculated columns, basic DAX, data modeling
 
@@ -52,7 +52,7 @@ Analyzed trends and patterns to identify how evenly revenue is distributed acros
 
 ---
 
-### Results & Business Recommendations
+## Results & Business Recommendations
 
 Creating this dashboard gives retail stakeholders a single place to track sales performance across cities, store types, seasons, and customer segments. By centralizing the data in Power BI, decision-makers can now self-serve instead of relying on manual reports, making it easier to answer common business questions.
 
@@ -60,7 +60,7 @@ The analysis shows that revenue is highly stable across seasons (each around $13
 
 ---
 
-### Recommended Actions
+## Recommended Actions
 
 - Monitor cities and store types that begin to deviate from the stable revenue baseline
 
@@ -72,7 +72,7 @@ The analysis shows that revenue is highly stable across seasons (each around $13
 
 ---
 
-### Next Steps
+## Next Steps
 
 - Incorporate product-level data to understand which specific items drive the most revenue and margin
 
@@ -84,15 +84,17 @@ The analysis shows that revenue is highly stable across seasons (each around $13
 
 ---
 
-### Dashoboard and Data Access
+## Dashboard and Data Access
 
-Power BI file: https://drive.google.com/file/d/18MeKQaMngmz2Ixdpii3R1Vf2Tf6owgGB/view?usp=drive_link
+- **Power BI Dashboard/File:** https://drive.google.com/file/d/18MeKQahmgnz2Ixdpii3R1Vf2Tf6owgGB/view?usp=drive_link
+- **Dataset (Kaggle):** https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset
+- **License:** CC0 1.0 (Public Domain) — https://creativecommons.org/publicdomain/zero/1.0/
 
-Dataset source: https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset
+The dataset is publicly available and may be used without restriction under the CC0 license.
 
 ---
 
-### Contact Me
+## Contact Me
 
 Mail: royed.123@outlook.com
 
