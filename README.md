@@ -86,7 +86,7 @@ The analysis shows that revenue is highly stable across seasons (each around $13
 
 ## Dashboard and Data Access
 
-- **Power BI Dashboard/File:** https://drive.google.com/file/d/18MeKQahmgnz2Ixdpii3R1Vf2Tf6owgGB/view?usp=drive_link
+- **Power BI Dashboard/File:** https://drive.google.com/drive/folders/1Kjqg6xdEYj59ZLWG0uEtbWhGxRQT_jaL?usp=sharing
 - **Dataset (Kaggle):** https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset
 - **License:** CC0 1.0 (Public Domain) — https://creativecommons.org/publicdomain/zero/1.0/
 
